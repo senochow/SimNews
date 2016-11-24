@@ -1,1 +1,1 @@
-# Simnews
+# SimnewsFind simnews using simhash algorithms, including c++ and java implemention.
